@@ -15,7 +15,7 @@ Production-style shared project and task tracking app for ClearCart AI.
 ## Setup
 
 1. Install dependencies:
-
+a;kshfk
 ```bash
 npm install
 ```
